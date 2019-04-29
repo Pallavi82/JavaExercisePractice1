@@ -20,6 +20,7 @@ public class VowCons {
             else {
                 System.out.println("Consonant is : " +r);
             }
+
         }
 
     }
